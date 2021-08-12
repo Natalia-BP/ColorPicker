@@ -8,14 +8,9 @@ function App() {
 
   return (
     <div className="App">
-      <header className="App-header">
-
-      </header>
       
           <ColorPicker />
        
-     
-
       <footer className="bg-light d-flex justify-content-center align-items-center py-4">
         <Footer />
       </footer>
