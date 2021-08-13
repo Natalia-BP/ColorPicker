@@ -42,6 +42,7 @@ const ColorPicker = () => {
 
                     {/* Input Displaying chosen color */}
                     <div className="input-group input-group-sm mb-3">
+
                         <span className="input-group-text position-relative">
                             {/* Button that opens color picker */}
                             <button type="button" onClick={() => picker ? setPicker(false) : setPicker(true)} className="btn p-0">

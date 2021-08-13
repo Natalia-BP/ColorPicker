@@ -2,8 +2,6 @@
 import ColorPicker from "./ColorPicker";
 import Footer from "./Footer";
 
-//azucar sintactico: JSX => JS + HTML/XML
-
 function App() {
 
   return (
